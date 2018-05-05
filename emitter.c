@@ -1,4 +1,5 @@
 #include "global.h"
+#include "parser.h"
 void
 emit (int t, int tval) 
 {
